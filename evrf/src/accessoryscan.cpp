@@ -9,6 +9,8 @@
 #include <accessoryscan.h>
 #include "ui_accessoryscan.h"
 
+// test git
+
 AccessoryScan::AccessoryScan(QWidget *parent, int type, Param *param, dataio *dio) :
     QMainWindow(parent),
     ui(new Ui::AccessoryScan)
