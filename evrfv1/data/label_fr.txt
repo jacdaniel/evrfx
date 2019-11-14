@@ -1,0 +1,27 @@
+25
+100
+Patient
+Direct
+Phlebologie
+Protologie
+Endovéneux
+Transcutané
+Fistule
+Puissance
+Pédale
+Manuel
+Pre-set
+Diametre
+Visage
+Jambes
+Impulsion
+Délai
+
+CR45i : Grande Saphène
+CR40i : Petite Saphène
+Cr30i :
+Transcutanée
+HPR45i: hémorroïdes
+Fistules
+Energie
+Configuration

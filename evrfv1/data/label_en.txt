@@ -1,0 +1,38 @@
+36
+100
+Patient
+Direct
+Phlebology
+Proctology
+Endovenous
+Trancutaneous
+Fistula
+Power
+Pedal
+Manual
+Pre-set
+Vein diameter
+Face
+Legs
+Pulse width
+Delay
+
+CR45i : Great Saphenous Vein
+CR40i : Perforating veins
+Cr30KAB : Varicose veins 2-5 mm
+Transcutaneous
+HPR45i: haemorrhoids
+Fistula
+Energy
+Configuration
+Details
+Name
+Age
+CEAP
+Remark
+Catether
+Date
+Time
+Pad
+On
+Off

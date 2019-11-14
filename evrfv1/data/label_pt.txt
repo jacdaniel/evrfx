@@ -1,0 +1,18 @@
+16
+100
+Patient
+Direct
+Phlebology
+Proctology
+Endovenous
+Trancutaneous
+Fistula
+Power
+Pedal
+Manual
+Pre-set
+Vein diameter
+Face
+Legs
+Pulse width
+Delay
